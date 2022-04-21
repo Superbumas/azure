@@ -1,2 +1,2 @@
-# azure
+# Personal Azure Templates
 Azure Templates
